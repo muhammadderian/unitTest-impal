@@ -1,4 +1,4 @@
-# mysql-impal
+# uniTest-impal
 Repository berikut berisikan mengenai Unit Testing Aplikasi pada Android Studio, yang dimana mengetes apakah Layout keluar sesuai dengan yang diinginkan.
 
 ## This Repository is made by :
